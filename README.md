@@ -1,6 +1,6 @@
 ### My first gitrepo!
 
-Here is my first git repo, commit messaes et al.
+Here is my first git repo, commit messages et al.
 
 '''python
 import numpy as np
